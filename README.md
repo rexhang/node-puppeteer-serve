@@ -5,7 +5,7 @@ npm install
 node app.js
 ```
 
-服务启动后 访问 <YOUR_IP>:3000/screenshot?url=https://www.ly.com&w=2560&h=1440&w=1920&h=1080
+服务启动后 访问 <YOUR_IP>:3000/screenshot?url=https://www.qq.com&w=2560&h=1440&w=1920&h=1080
 
 ```javascript
 url: 要进行截图的网站地址
