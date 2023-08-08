@@ -20,10 +20,10 @@ m: json | file 默认json 返回的形式可以是json形式或者直接是图�
 
 `http://127.0.0.1:3000/screenshot?url=https://www.qq.com&w=2560&h=1440`
 
-[json形式返回](https://github.com/rexhang/node-puppeteer-serve/assets/14832793/00c32646-a95e-4ba0-8b50-5cef3841a354)
+![json形式返回](https://github.com/rexhang/node-puppeteer-serve/assets/14832793/00c32646-a95e-4ba0-8b50-5cef3841a354)
 
 >文件形式返回
 
 `http://127.0.0.1:3000/screenshot?url=https://www.qq.com&w=2560&h=1440&m=file`
 
-[文件形式返回](https://github.com/rexhang/node-puppeteer-serve/assets/14832793/a62a17dc-aeff-4292-865f-6e6f5c893cae)
+![文件形式返回](https://github.com/rexhang/node-puppeteer-serve/assets/14832793/a62a17dc-aeff-4292-865f-6e6f5c893cae)
